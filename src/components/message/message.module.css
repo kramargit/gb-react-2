@@ -1,0 +1,14 @@
+body {
+    background-color: #635f5f;
+}
+.message {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #4db98a;
+}
+
+.text {
+    color: #bcbcbf;
+}
