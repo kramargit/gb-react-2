@@ -1,0 +1,13 @@
+.layout {
+    width: 100vw;
+    display: flex;
+
+}
+
+.chatlist {
+    width: 35%;
+}
+
+.messagelist {
+    width: 63%;   
+}
