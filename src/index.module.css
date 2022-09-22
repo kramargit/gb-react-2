@@ -1,0 +1,4 @@
+.rootWrap {
+    display: flex;
+    flex-wrap: wrap;
+}
