@@ -1,0 +1,1 @@
+export const TOGGLE_IS_VISIBLE = '@/profile/toggle profile visible';
